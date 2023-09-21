@@ -42,7 +42,7 @@ ol {
 }
 
 .visually-hiden {
-  position: absolute;
+  position: relative;
   clip: rect(0 0 0 0);
   inline-size: 1px;
   block-size: 1px;
