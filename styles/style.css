@@ -9,6 +9,7 @@ html {
 }
 
 .page {
+  display: flex;
   font-size: 18px;
   font-family: 'Fira Sans Condensed', sans-serif;
   margin: auto;
@@ -35,10 +36,6 @@ fieldset {
 ul,
 ol {
   list-style: none;
-}
-
-.page {
-  display: flex;
 }
 
 .visually-hidden {
