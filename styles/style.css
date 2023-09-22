@@ -41,8 +41,8 @@ ol {
   display: flex;
 }
 
-.visually-hiden {
-  position: relative;
+.visually-hidden {
+  position: absolute;
   clip: rect(0 0 0 0);
   inline-size: 1px;
   block-size: 1px;
@@ -96,9 +96,9 @@ ol {
 }
 
 .result__video-container {
+  position: relative;
   width: 711px;
   height: 386px;
-  position: relative;
   margin-bottom: 16px;
 }
 
