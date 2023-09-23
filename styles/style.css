@@ -51,7 +51,7 @@ ol {
 .title {
   font-size: 75px;
   font-weight: 700;
-  font-family: "Oswald";
+  font-family: "Oswald", sans-serif;
   margin-bottom: 26px;
   line-height: 95%;
   text-transform: uppercase;
